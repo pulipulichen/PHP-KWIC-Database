@@ -168,7 +168,7 @@ $bibliographies = R::convertToBeans( 'bibliography', $bibliographies );
 $result_count =  count($bibliographies);
 	?>
 	<div class="ui info message">
-		總共找到 <?php echo $result_count ?> 筆報導
+		總共找到 <?php echo $result_count ?> 筆文件
 	</div>
 	<?php
 	
